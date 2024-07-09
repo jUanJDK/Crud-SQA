@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `node_mysql`
 --
+CREATE DATABASE IF NOT EXISTS `appmaster` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8;
+use appmaster;
 
 -- --------------------------------------------------------
 

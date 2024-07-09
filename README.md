@@ -1,9 +1,9 @@
-## CRUD CON PYTHON 🐍 Y FLASK
+## CRUD CON PYTHON  Y FLASK
 
 
 ### Acontinuación muestro algunos pasos para hacer correr el proyecto:
 
-##### PASO 1: <p>Crear mi entorno virtual
+##### PASO 1: <p>Crear el  entorno virtual, puedes usar 
 ` virtualenv -p python3 env o  python3 -m venv env`</p>
 
 ##### PASO 2: Activar el entorno virtual ejecutando
@@ -18,10 +18,5 @@
 
 ##### IMPORTANTE : <p>Puedes solo crear tu entorno virtual y posicionarte en el mismo, luego ejecutar el siguiente comando:  </p> 
 `pip install -r requirements.txt`
-<p>en el  mismo se encuentran todas las dependecias del proyecto.</p>
-
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-pytho-con-flask.png)
-
-<p>
 Muchas gracias.
 </p>
